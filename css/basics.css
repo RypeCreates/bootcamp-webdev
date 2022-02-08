@@ -1,0 +1,12 @@
+body {
+        text-align: center;
+        background-color: rgb(200,170,250);
+}
+
+.box {
+        background-color: purple;
+}
+
+.bullet-point {
+        color: white;
+}

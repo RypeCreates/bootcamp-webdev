@@ -1,0 +1,41 @@
+h1 {
+    color: rgb(31,25,25);
+}
+
+#challenge-card {
+    width: 800px;
+    margin: 200px auto 72px auto;
+    padding: 24px;
+    background-color: rgb(223,136,124);
+    border-width: 3px;
+    border-color: rgb(44,44,44);
+    border-style: solid;
+    border-radius: 12px;
+    box-shadow: 1px 2px 8px rgba(0,0,0,0.3);
+}
+
+#trophy {
+    margin: -125px 30px auto auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border-color: rgb(44,44,44);
+    border-width: 4px;
+    border-style: solid;
+}
+#todays-challenge {
+    font-size: 24px;
+    color: rgb(75, 59,59);
+  }
+
+span {
+    color: rgb(66,2,2);
+}
+
+a {
+    color: rgb(73, 29, 50);
+}
+
+p {
+    font-size: 24px;
+}
