@@ -1,12 +1,60 @@
 body {
+        margin: 40px 60px;
+        font-family: 'Roboto', sans-serif;
         text-align: center;
-        background-color: rgb(200,170,250);
+        background-color: rgb(227, 210, 255);
+        height: 100%;
+}
+
+h1 {
+        font-weight: 700;
+        font-size: 48px;
+        color: rgb(85, 23, 126);
+}
+
+img {
+        width: 300px;
 }
 
 .box {
-        background-color: purple;
+        background-color: rgb(85, 23, 126);
+        width: 700px;
+        text-align: left;
+        padding: 20px;
+        margin: 70px auto 30px auto;
+        color: white;
+        border-radius: 12px;
 }
 
 .bullet-point {
-        color: white;
+        color: rgb(247, 255, 140);
+        list-style: square;
+        list-style-type: square;
+}
+
+ul {
+        text-align: left;
+}
+
+a {
+        color: rgb(85, 23, 126);
+        background-color: rgb(247, 255, 140);
+        text-decoration: none;
+        padding: 2px 3px;
+        border-radius: 3px;
+}
+
+.download-button {
+        margin: 50px auto 60px auto;
+        padding: 10px;
+        border-radius: 5px;
+        background-color: rgb(255, 252, 98);
+}
+
+.copyright {
+        color: rgb(110, 110, 110)
+}
+
+footer {
+        padding: 10px;
 }
